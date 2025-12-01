@@ -1,7 +1,9 @@
 # social-lab
 A creative workspace for social media strategies, ad experiments, and digital marketing projects.
 It is a curated collection of digital marketing experiments, ad creatives, campaign strategies, and analytics case studies. Social Lab serves as a personal space to document learning, showcase hands-on marketing skills, and demonstrate real-world problem-solving in the social media advertising ecosystem.
-🚀 About This Repository
+
+About This Repository
+
 Social Lab is designed to highlight practical digital marketing expertise through:
 
 Ad campaign mockups & breakdowns
